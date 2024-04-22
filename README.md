@@ -1,8 +1,6 @@
-# proyecto-da-promoF-modulo4-equipo6
+# Data Insights: ABC-ANÁLISIS
 
 # Proyecto Data Insights: ETL y Visualización Impactante en Tableau/Power BI
-
-¡Bienvenidas al proyecto "Data Insights: ETL y Visualización Impactante en Tableau/Power BI" en nuestro bootcamp de Data Analytics de Adalab !
 
 ## Descripción del Proyecto
 En este desafío, nos sumergiremos en el apasionante mundo del reporting de datos, adquiriendo habilidades clave para transformar datos crudos en información significativa y visualmente impactante. El proyecto se centra en el análisis de la rotación de empleados en la empresa ficticia ABC Inc.
